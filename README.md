@@ -1,6 +1,6 @@
 # RafiuREADME-page
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)
+![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## Description
 ${data.description}
